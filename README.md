@@ -14,3 +14,5 @@ too long; didn't read:
 I think I know what to do now. 
 
 Here are some image comparisons of the autoencoder reconstructions:
+
+![alt text](https://github.com/Mathematical-Methods/ENGR-400-Final-Project/tree/main/ConvAEoutput_labeled.png?raw=true)

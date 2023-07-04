@@ -1,4 +1,4 @@
-# ENGR-400-Final-Project
+# Autoencoder pretrained – Convolutional vs Fully Connected image classifier
 Hi, my name is Gabriel Dimonde!
 
 NOTE: This repository is NOT a fully built project! This is intended as a preview of ability in Python applied in machine learning.

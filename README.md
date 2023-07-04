@@ -1,4 +1,4 @@
-# ENGR-400-Final-Project
+# Autoencoder pretrained – Convolutional vs Fully Connected image classifier
 Hi, my name is Gabriel Dimonde!
 
 NOTE: This repository is NOT a fully built project! This is intended as a preview of ability in Python applied in machine learning.
@@ -15,4 +15,5 @@ I think I know what to do now.
 
 Here are some image comparisons of the autoencoder reconstructions:
 
-![alt text](https://github.com/Mathematical-Methods/ENGR-400-Final-Project/tree/main/ConvAEoutput_labeled.png?raw=true)
+![DenseAEoutput_labeled](https://github.com/Mathematical-Methods/ENGR-400-Final-Project/assets/138537308/cc3472ac-d698-4eab-a4ab-b1e7d49873a9)
+![ConvAEoutput_labeled](https://github.com/Mathematical-Methods/ENGR-400-Final-Project/assets/138537308/9e7dfb8f-17b3-4690-9a71-08b7174715b8)

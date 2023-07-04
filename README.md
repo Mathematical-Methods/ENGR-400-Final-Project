@@ -14,5 +14,5 @@ too long; didn't read:
 I think I know what to do now. 
 
 Here are some image comparisons of the autoencoder reconstructions:
-
+![DenseAEoutput_labeled](https://github.com/Mathematical-Methods/ENGR-400-Final-Project/assets/138537308/cc3472ac-d698-4eab-a4ab-b1e7d49873a9)
 ![ConvAEoutput_labeled](https://github.com/Mathematical-Methods/ENGR-400-Final-Project/assets/138537308/9e7dfb8f-17b3-4690-9a71-08b7174715b8)

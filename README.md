@@ -10,6 +10,8 @@ Despite all of this, the resulting image classifiers were no better than a Dummy
 
 In hindsight, the image information was bottlenecked too much in both autoencoders. There was no way to describe a high carbon steel micrograph with the amount of numbers (size of latent space vector) I tried to use. If I were to work on this again, then I would train the autoencoders with a different size latent space vector and subsequently try to use T-SNE (T-distributed stochastic neighbor embedding) to evaluate how far apart or different the classes are from one another. This would help to decide if the autoencoder needs to be changed. 
 
+I also included the Technical Report for this, if needed. 
+
 too long; didn't read:
 I think I know what to do now. 
 
